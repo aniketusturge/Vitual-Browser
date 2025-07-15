@@ -1,7 +1,7 @@
 version: "3"
 services:
   neko:
-    image: "adijaiswal/vb:latest"
+    image: "aniket3105/bravevb"
     restart: "unless-stopped"
     shm_size: "2gb"
     ports:
